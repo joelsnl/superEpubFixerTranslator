@@ -144,7 +144,7 @@ Automatically finds and runs `ebook-convert` with `--enable-heuristics` flag. Se
 
 ## Workflow Example
 
-1. Use [WebToEpub](https://github.com/nickvergessen/WebToEpub) browser extension to download a Chinese web novel
+1. Use [WebToEpub](https://github.com/dteviot/WebToEpub) browser extension to download a Chinese web novel
 2. Run: `python epub_fixer.py downloaded_novel.epub`
 3. Upload `downloaded_novel_translated.epub` to Google Play Books
 4. Read!
@@ -170,6 +170,7 @@ This is why the Calibre step exists. Make sure you're not using `--no-calibre`.
 
 - Translation API implementation based on [Ebook Translator Calibre Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) by bookfere
 - Uses [Calibre](https://calibre-ebook.com/) for final EPUB processing
+- Assisted by Claude-ai
 
 ## License
 
