@@ -168,9 +168,13 @@ This is why the Calibre step exists. Make sure you're not using `--no-calibre`.
 
 ## Credits
 
-- Translation API implementation based on [Ebook Translator Calibre Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) by bookfere
-- Uses [Calibre](https://calibre-ebook.com/) for final EPUB processing
-- Assisted by Claude-ai
+- **Translation API implementation** based on [Ebook Translator Calibre Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) by bookfere (GPL-3.0)
+- **Calibre** for final EPUB processing - https://calibre-ebook.com/
+- **WebToEpub** browser extension for downloading web novels - https://github.com/dteviot/WebToEpub
+
+### 🤖 AI-Assisted Development
+
+This script was built with **Claude AI** (Anthropic) based on design, requirements, and ideas by **Joel**. The development process involved iterative collaboration where Joel provided the use case, tested outputs, and guided the implementation while Claude wrote the code.
 
 ## License
 
